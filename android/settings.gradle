@@ -1,0 +1,3 @@
+rootProject.name = 'venx_4061'
+
+include ':app'
